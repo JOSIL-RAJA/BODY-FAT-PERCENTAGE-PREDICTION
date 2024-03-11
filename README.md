@@ -1,2 +1,2 @@
-# MACHINE-LESRNING
+# MACHINE-LEARNING
 machine learning repository
